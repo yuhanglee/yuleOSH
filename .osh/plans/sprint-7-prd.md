@@ -1,3 +1,8 @@
+---
+kind: feature
+lint: RED / GREEN / REFACTOR
+---
+
 # Sprint 7: 交互式 Demo + UX 打磨 + DK Hub 发布 (Ralph Loop)
 
 ## 任务清单

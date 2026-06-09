@@ -1,3 +1,8 @@
+---
+kind: feature
+lint: RED / GREEN / REFACTOR
+---
+
 # Sprint 4: 生态 + 多语言 + 企业级加固 (Ralph Loop 自动迭代)
 
 ## 目标

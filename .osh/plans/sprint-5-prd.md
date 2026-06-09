@@ -1,3 +1,8 @@
+---
+kind: feature
+lint: RED / GREEN / REFACTOR
+---
+
 # Sprint 5: 线上化 + DK Hub 发版 + 深度打磨 (Ralph Loop)
 
 ## 目标

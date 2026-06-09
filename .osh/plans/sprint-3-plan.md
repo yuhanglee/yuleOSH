@@ -1,3 +1,8 @@
+---
+kind: refactor
+lint: RED / GREEN / REFACTOR
+---
+
 # Sprint 3: 企业级部署 + 使用统计 + 通知
 
 ## P0

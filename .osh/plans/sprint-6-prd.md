@@ -1,3 +1,8 @@
+---
+kind: feature
+lint: RED / GREEN / REFACTOR
+---
+
 # Sprint 6: 文档站 + 模板库 + 安全加固 (Ralph Loop)
 
 ## 目标

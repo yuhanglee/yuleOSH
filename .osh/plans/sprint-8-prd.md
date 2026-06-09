@@ -1,3 +1,8 @@
+---
+kind: feature
+lint: RED / GREEN / REFACTOR
+---
+
 # Sprint 8: 量产上线准备 (Ralph Loop)
 
 ## 目标

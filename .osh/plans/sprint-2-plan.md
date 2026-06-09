@@ -1,3 +1,8 @@
+---
+kind: refactor
+lint: RED / GREEN / REFACTOR
+---
+
 # Sprint 2: 产品打磨 + DK Hub 发版
 
 内部讨论结论：三个方向同步推进
